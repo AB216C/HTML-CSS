@@ -1,0 +1,27 @@
+.email {
+  font-size:30px;
+  color:gray;
+  margin-bottom:4px;
+}
+.text {
+  border-radius:5px;
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-right:500px;
+  border-color:black;
+}
+.policy {
+  color:gray;
+  font-size:27px;
+}
+.aj {
+  background:rgb(31, 96, 175);
+  border:none;
+  color:white;
+  padding-top:30px;
+  padding-bottom:30px;
+  padding-left:240px;
+  padding-right:240px;
+  border-radius:60px;
+  font-size:30px;
+}
